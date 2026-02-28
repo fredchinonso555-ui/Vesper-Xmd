@@ -6,10 +6,10 @@ const config = require('./start/Core/developer');
 
 const settings = {
   SESSION_ID: config.SESSION_ID || "", // enter session id
-  ownername: config.ownername || "ᴋᴇʟᴠɪɴ ᴛᴇᴄʜ", // Owner name
+  ownername: config.ownername || "Apostle praize", // Owner name
   botname: config.botname || "Vesper-Xmd", // custom bot name
   prefa: config.prefa || ['.', '!'], // Command prefixes
-  owner: config.owner || ["256742932677"] // Owner phone numbers
+  owner: config.owner || ["2347071035915"] // Owner phone numbers
 };
 
 // Export settings for use in other modules
